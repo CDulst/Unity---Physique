@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{EECD6D8C-4174-A485-8FD6-D4117C07FF1B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UduinoController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="118" Column="14" NotebookId="1" />
+      <File FileName="Assets/Scripts/movingPlane.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/obstacle.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/obstacleGenerator.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/planeShredder.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/planeTrigger.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/triggerOnPlayerEnter.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/UI.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/planeSpawner.cs" Line="33" Column="10" NotebookId="1" />
+      <File FileName="../uduino test/Assets/Uduinocheck.cs" Line="36" Column="7" NotebookId="1" />
+      <File FileName="../Oefenen Arduino x Unity/Assets/Scripts/Uduinocontroller.cs" Line="15" Column="7" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="481" Y="54" Width="1603" Height="952">
+        <Files>
+          <File FileName="Assets/Scripts/UduinoController.cs" Line="137" Column="14" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Physique" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="UduinoController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Physique" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c9962e58-9ae0-47de-af96-f568c4560186" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
